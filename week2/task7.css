@@ -1,0 +1,8 @@
+body{
+    background-image: url("hello kitty.jpeg") ;
+    background-repeat: no-repeat;
+    background-size: 18cm;
+}
+h1,p{
+    color: #000000;
+}
